@@ -1,0 +1,12 @@
+PODS:
+  - PDFGenerator (3.0.0)
+
+DEPENDENCIES:
+  - PDFGenerator (~> 3.0)
+
+SPEC CHECKSUMS:
+  PDFGenerator: e00fd09ae8021e304b5672cf11bc28234fc626e7
+
+PODFILE CHECKSUM: f191096ee1fc5cb74b7f2b89e9209efacabded40
+
+COCOAPODS: 1.4.0
