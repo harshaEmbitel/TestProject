@@ -1,12 +1,18 @@
 PODS:
-  - PDFGenerator (3.0.0)
+  - Charts (3.2.1):
+    - Charts/Core (= 3.2.1)
+  - Charts/Core (3.2.1)
 
 DEPENDENCIES:
-  - PDFGenerator (~> 3.0)
+  - Charts
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Charts
 
 SPEC CHECKSUMS:
-  PDFGenerator: e00fd09ae8021e304b5672cf11bc28234fc626e7
+  Charts: f122fb70b19847fa5817d018b77d6c5a2296ab25
 
-PODFILE CHECKSUM: f191096ee1fc5cb74b7f2b89e9209efacabded40
+PODFILE CHECKSUM: ede24fc4efe4a3f0f79edc5fe10989845afe3436
 
-COCOAPODS: 1.4.0
+COCOAPODS: 1.5.3
